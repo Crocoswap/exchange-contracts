@@ -5,3 +5,10 @@ test/
 cache/
 node_modules/
 artifacts/
+contracts/croco-lib/.DS_Store
+contracts/croco-periphery/.DS_Store
+contracts/.DS_Store
+contracts/croco-core/.DS_Store
+contracts/croco-core/.apikey
+contracts/croco-core/.secret
+.DS_Store

@@ -22,7 +22,7 @@ library CrocoLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'40231f6b438bce0797c9ada29b718a87ea0a5cea3fe9a771abdd76bd41a3e545' // init code hash
+                hex'2babb5aeb28267a3d05149540ccbaaf91e6cb454721441d7f7f425c0352b13d0' // init code hash
             ))));
     }
 
